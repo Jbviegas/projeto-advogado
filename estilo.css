@@ -22,13 +22,13 @@ body {
 }
 
 .secao-largura-limitada {
-  width: 960px;
+  width: 900px;
   margin: 0 auto;
 }
 
 .secao-largura-limitada h3,
 .atuacao {
-  width: 960px;
+  width: 900px;
   margin: 0 auto;
   padding-bottom: 13px;
 }
